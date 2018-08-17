@@ -1,0 +1,10 @@
+main: today.pls.trails.PLSTrails
+name: PLSTrails
+version: 0.0.1
+description: Trails are cool, eh?
+author: RaidAndFade
+commands:
+  trail:
+    description: The main Trails command
+    aliases: t
+    permission: plstrails.trail

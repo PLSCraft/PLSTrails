@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PLSTrails">
+    <output-path>$PROJECT_DIR$/out/artifacts/PLSTrails</output-path>
+    <root id="archive" name="PLSTrails.jar">
+      <element id="module-output" name="PLSTrails" />
+    </root>
+  </artifact>
+</component>
